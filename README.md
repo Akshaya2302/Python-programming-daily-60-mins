@@ -3,3 +3,4 @@
 * Learned to set up codespace in github.
 
 **Day1:** Simple program.
+**Day2:** Sum of Two numbers.
