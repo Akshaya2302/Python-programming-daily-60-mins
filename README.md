@@ -1,7 +1,14 @@
 # Python-programming-daily-60-mins
 **First day of python programming**
+
 * Learned to set up codespace in github.
 
-**Day1:** Simple program.
+* Simple program.
+* Sum of Two numbers.
+* Area of Circle.
+* Area of Rectangle.
+* Swapping of 2 numbers.
+* Converting Celcius to fahrenheit.
+* Largest in 2 numbers.
+* Finding Even or Odd.
 
-**Day2:** Sum of Two numbers.
