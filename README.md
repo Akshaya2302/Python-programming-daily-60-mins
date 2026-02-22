@@ -11,4 +11,5 @@
 * Converting Celcius to fahrenheit.
 * Largest in 2 numbers.
 * Finding Even or Odd.
-*Simple student score.
+* Simple student score.
+* Simple Calculator.
