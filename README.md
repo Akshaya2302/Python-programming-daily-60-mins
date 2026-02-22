@@ -1,5 +1,5 @@
 # Python-programming-daily-60-mins
-**First day of python programming**
+**Practising Atleast One program daily.**
 
 * Learned to set up codespace in github.
 
@@ -11,4 +11,4 @@
 * Converting Celcius to fahrenheit.
 * Largest in 2 numbers.
 * Finding Even or Odd.
-
+*Simple student score.
