@@ -17,5 +17,5 @@
 * Finding Even or Odd
 * Simple student score
 * Simple Calculator
-
+* Calculate minutes,hours,days depending on user age.
 </details>
