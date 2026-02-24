@@ -18,4 +18,5 @@
 * Simple student score
 * Simple Calculator
 * Calculate minutes,hours,days depending on user age.
+* Multiplication tables.
 </details>
