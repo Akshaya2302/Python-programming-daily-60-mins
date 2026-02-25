@@ -19,4 +19,6 @@
 * Simple Calculator
 * Calculate minutes,hours,days depending on user age.
 * Multiplication tables.
+* Sum of two Digits.
+* Students Grading Program.
 </details>
