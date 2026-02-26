@@ -21,4 +21,7 @@
 * Multiplication tables.
 * Sum of two Digits.
 * Students Grading Program.
+* Calculating Sum of numbers from 1-100 (for loop)
+* Printing each character of a given string.
+* Printing numbers from 10 to 1 in the downward.
 </details>
