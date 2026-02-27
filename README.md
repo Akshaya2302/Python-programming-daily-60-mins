@@ -24,4 +24,6 @@
 * Calculating Sum of numbers from 1-100 (for loop)
 * Printing each character of a given string.
 * Printing numbers from 10 to 1 in the downward.
+* Printing Even numbers  between 1 to 20 using for loop in range.
+* Counting each character in string.
 </details>
