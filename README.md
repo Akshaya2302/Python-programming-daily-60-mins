@@ -26,4 +26,5 @@
 * Printing numbers from 10 to 1 in the downward.
 * Printing Even numbers  between 1 to 20 using for loop in range.
 * Counting each character in string.
+* Finding Factorial of a number.
 </details>
