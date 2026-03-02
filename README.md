@@ -27,4 +27,5 @@
 * Printing Even numbers  between 1 to 20 using for loop in range.
 * Counting each character in string.
 * Finding Factorial of a number.
+* Printing all the elements in a list using for loop.
 </details>
