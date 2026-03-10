@@ -29,4 +29,5 @@
 * Finding Factorial of a number.
 * Printing all the elements in a list using for loop.
 * Created a program using global variable.
+* Storing information about the customers order and Calculating the total cost.
 </details>
