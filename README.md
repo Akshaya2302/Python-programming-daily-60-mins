@@ -30,4 +30,5 @@
 * Printing all the elements in a list using for loop.
 * Created a program using global variable.
 * Storing information about the customers order and Calculating the total cost.
+* Checking whether the given number is palindrome or not.
 </details>
