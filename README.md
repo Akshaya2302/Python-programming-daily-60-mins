@@ -31,4 +31,5 @@
 * Created a program using global variable.
 * Storing information about the customers order and Calculating the total cost.
 * Checking whether the given number is palindrome or not.
+* Reversing a String.
 </details>
