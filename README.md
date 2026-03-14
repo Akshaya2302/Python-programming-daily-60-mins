@@ -32,4 +32,5 @@
 * Storing information about the customers order and Calculating the total cost.
 * Checking whether the given number is palindrome or not.
 * Reversing a String.
+* Speed typing problem (problem solving problem).
 </details>
