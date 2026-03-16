@@ -33,4 +33,5 @@
 * Checking whether the given number is palindrome or not.
 * Reversing a String.
 * Speed typing problem (problem solving problem).
+* Count Likes and Dislikes. (Problem from Big code challenge).
 </details>
