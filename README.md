@@ -35,4 +35,5 @@
 * Speed typing problem (problem solving problem).
 * Count Likes and Dislikes. (Problem from Big code challenge).
 * The Freelance Calculator.
+* Star pyramid.
 </details>
