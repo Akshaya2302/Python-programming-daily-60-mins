@@ -36,4 +36,5 @@
 * Count Likes and Dislikes. (Problem from Big code challenge).
 * The Freelance Calculator.
 * Star pyramid.
+* Left leaned star pyramid.
 </details>
