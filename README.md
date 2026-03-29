@@ -37,4 +37,5 @@
 * The Freelance Calculator.
 * Star pyramid.
 * Left leaned star pyramid.
+* Inverted Star pyramid.
 </details>
