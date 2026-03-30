@@ -38,4 +38,5 @@
 * Star pyramid.
 * Left leaned star pyramid.
 * Inverted Star pyramid.
+* Right Leaned Star Pyramid.
 </details>
