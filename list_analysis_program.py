@@ -5,11 +5,7 @@ maximum_in_list = max(my_list)
 minimum_in_list = min(my_list)
 reversed_list = list(reversed(my_list))
 
-for i in range(my_list):
-    if my_list%2==0:
-        print(f"Even Integers in list:{list}")
-    else:
-        print(f"Odd Integers:{list}")
+
 
 print(f"Length of list:{length}")
 print(f"Sum of integers in a list:{sum_of_list}")
