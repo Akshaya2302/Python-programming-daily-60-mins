@@ -40,4 +40,6 @@
 * Inverted Star pyramid.
 * Right Leaned Star Pyramid.
 * Fibonacci Series.
+* Sorting a list using built in function **sort()**.
+* Sorting a lsit without using built in function.
 </details>
