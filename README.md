@@ -1,6 +1,6 @@
 # 🐍Python-programming-daily-60-mins
 >**Practising Atleast One program daily.**
-## YOLO Badge Test
+* Yolo badge
 *Learned to set up codespace in github.*
 
 ###Programs Completed.
