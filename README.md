@@ -44,4 +44,6 @@ yolo badge
 * Sorting a lsit without using built in function.
 * updating
 * Guess the Number using **import random**
+* Checking Prime using functions.
+* Checking prime without using functions.
 </details>
