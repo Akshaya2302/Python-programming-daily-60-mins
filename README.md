@@ -1,6 +1,6 @@
 # 🐍Python-programming-daily-60-mins
 >**Practising Atleast One program daily.**
-* Yolo badge
+yolo badge
 *Learned to set up codespace in github.*
 
 ###Programs Completed.
@@ -43,4 +43,5 @@
 * Sorting a list using built in function **sort()**.
 * Sorting a lsit without using built in function.
 * updating
+* Guess the Number using **import random**
 </details>
