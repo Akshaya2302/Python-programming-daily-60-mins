@@ -6,8 +6,7 @@
 ###Programs Completed.
 <details>
 <summary>Click to expand the full list of programs</summary>
-
-* Simple program
+  
 * Sum of Two numbers
 * Area of Circle
 * Area of Rectangle
